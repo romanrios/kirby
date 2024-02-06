@@ -1,11 +1,11 @@
 ﻿{
-	"version": 1707068345,
+	"version": 1707234606,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
 		"jquery-3.4.1.min.js",
 		"offlineClient.js",
-		"images/bg-sheet0.png",
+		"images/bg1_1-sheet0.png",
 		"images/ui-sheet0.png",
 		"images/player-sheet0.png",
 		"images/player-sheet1.png",
@@ -25,6 +25,14 @@
 		"images/inhalecollision-sheet0.png",
 		"images/playerlimit-sheet0.png",
 		"images/starthrow-sheet0.png",
+		"images/textscore.png",
+		"images/door-sheet0.png",
+		"images/bg1_2-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/sprite-sheet1.png",
+		"images/touchbackground-sheet0.png",
+		"images/dpad-sheet0.png",
+		"images/circlebutton-sheet0.png",
 		"media/jump.m4a",
 		"media/jump.ogg",
 		"media/land.m4a",
@@ -49,6 +57,8 @@
 		"media/swallow.ogg",
 		"media/spit_impact.m4a",
 		"media/spit_impact.ogg",
+		"media/door_in.m4a",
+		"media/door_in.ogg",
 		"media/bgm_intro.m4a",
 		"media/bgm_intro.ogg",
 		"media/bgm_loop.m4a",
@@ -58,9 +68,6 @@
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
-		"loading-logo.png",
-		"font-webfont.woff",
-		"font-webfont.woff2",
-		"stylesheet.css"
+		"loading-logo.png"
 	]
 }
