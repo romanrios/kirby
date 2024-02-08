@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1707271123,
+	"version": 1707369544,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -39,6 +39,8 @@
 		"images/dpad_arrow_left-sheet0.png",
 		"images/circlebutton_a-sheet0.png",
 		"images/releasedair-sheet0.png",
+		"images/transition-sheet0.png",
+		"images/sprite2-sheet0.png",
 		"media/jump.m4a",
 		"media/jump.ogg",
 		"media/land.m4a",
@@ -73,6 +75,10 @@
 		"media/bgm_intro.ogg",
 		"media/bgm_loop.m4a",
 		"media/bgm_loop.ogg",
+		"media/title_screen1.m4a",
+		"media/title_screen1.ogg",
+		"media/title_screen2.m4a",
+		"media/title_screen2.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
