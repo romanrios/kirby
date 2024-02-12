@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1707502962,
+	"version": 1707709993,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -48,6 +48,10 @@
 		"images/bg0_4-sheet0.png",
 		"images/textblack.png",
 		"images/bg1_3-sheet0.png",
+		"images/textblack2.png",
+		"images/fullscreen-sheet0.png",
+		"images/romanrios-sheet0.png",
+		"images/volumedown-sheet0.png",
 		"media/jump.m4a",
 		"media/jump.ogg",
 		"media/land.m4a",
@@ -94,6 +98,8 @@
 		"media/level0_bgm1.ogg",
 		"media/level0_bgm2.m4a",
 		"media/level0_bgm2.ogg",
+		"media/01. welcome to dream land.m4a",
+		"media/01. welcome to dream land.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
