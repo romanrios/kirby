@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1707978798,
+	"version": 1708026291,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -67,6 +67,7 @@
 		"images/title-sheet0.png",
 		"images/mute-sheet0.png",
 		"images/mute-sheet1.png",
+		"images/kirbyinhalecollisioner-sheet0.png",
 		"media/jump.m4a",
 		"media/jump.ogg",
 		"media/land.m4a",
