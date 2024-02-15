@@ -1,6 +1,6 @@
 ﻿{
-	"name": "Kirby",
-	"short_name": "Kirby",
+	"name": "Kirby Remix",
+	"short_name": "Kirby Remix",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
