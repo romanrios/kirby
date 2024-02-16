@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1708048066,
+	"version": 1708103014,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -53,6 +53,7 @@
 		"images/romanrios-sheet0.png",
 		"images/rrgithub.png",
 		"images/volumedown-sheet0.png",
+		"images/player2-sheet0.png",
 		"images/instadeath-sheet0.png",
 		"images/enemyfly-sheet0.png",
 		"images/enemyfly-sheet1.png",
